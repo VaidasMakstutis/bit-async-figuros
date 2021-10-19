@@ -1,0 +1,24 @@
+{
+  "name": "bit-async-figuros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidasMakstutis/bit-async-figuros.git"
+  },
+  "keywords": [],
+  "author": "Vaidas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidasMakstutis/bit-async-figuros/issues"
+  },
+  "homepage": "https://github.com/VaidasMakstutis/bit-async-figuros#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
